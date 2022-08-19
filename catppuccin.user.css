@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Cinny Catppuccin
 @namespace      github.com/jan-senaa/cinny
-@version        2.0.0
+@version        2.0.1
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/jan-senaa/cinny/raw/main/catppuccin.user.css
@@ -140,12 +140,14 @@
 		$green-rgb = 166, 227, 161
 	}
 
+	:root,
 	.text,
-	.light-theme,
-	.silver-theme,
-	.dark-theme,
-	.butter-theme,
-	:root, .dark-theme, .text {
+	.light-theme, .silver-theme,
+	.dark-theme, .butter-theme,
+	.light-theme .text, .silver-theme .text,
+	.dark-theme .text, .butter-theme .text {
+		color-scheme: $type;
+
 		--bg-surface: $base;
 		--bg-surface-low: $mantle;
 		--bg-surface-extra-low: $crust;
