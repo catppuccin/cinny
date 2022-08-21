@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Cinny Catppuccin
 @namespace      github.com/jan-senaa/cinny
-@version        2.0.1
+@version        2.0.2
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/jan-senaa/cinny/raw/main/catppuccin.user.css
@@ -155,9 +155,9 @@
 		--bg-surface-hover: $surface0;
 		--bg-surface-active: $surface1;
 
-		--bg-primary: $base;
-		--bg-primary-hover: $surface0;
-		--bg-primary-active: $surface1;
+		--bg-primary: $surface1;
+		--bg-primary-hover: $surface2;
+		--bg-primary-active: $overlay1;
 
 		--bg-tooltip: $surface0;
 		--bg-badge: $lavender;
