@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Cinny Catppuccin
 @namespace      github.com/catppuccin/cinny
-@version        2.0.2
+@version        2.0.3
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/catppuccin/cinny/raw/main/catppuccin.user.css
@@ -180,7 +180,7 @@
 		--tc-tooltip: $subtext0;
 		--tc-code: $mauve;
 		--tc-link: $rosewater;
-		--tc-badge: $lavender;
+		--tc-badge: $crust;
 
 		--tc-positive-high: var(--bg-positive);
 		--tc-positive-normal: $green;
