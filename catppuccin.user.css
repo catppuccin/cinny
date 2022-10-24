@@ -1,12 +1,12 @@
 /* ==UserStyle==
 @name           Cinny Catppuccin
 @namespace      github.com/catppuccin/cinny
-@version        2.0.3
+@version        2.0.4
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/catppuccin/cinny/raw/main/catppuccin.user.css
 @preprocessor   stylus
-@var select theme "Theme" ["Latte", "Frappe", "Macchiato*", "Mocha"]
+@var select theme "Theme" ["Latte", "Frappe", "Macchiato", "Mocha*"]
 ==/UserStyle== */
 
 @-moz-document domain("app.cinny.in") {
@@ -143,9 +143,9 @@
 	:root,
 	.text,
 	.light-theme, .silver-theme,
-	.dark-theme, .butter-theme,
+	.dark-theme, .butter-theme, .system-theme,
 	.light-theme .text, .silver-theme .text,
-	.dark-theme .text, .butter-theme .text {
+	.dark-theme .text, .butter-theme .text, .system-theme .text {
 		color-scheme: $type;
 
 		--bg-surface: $base;
