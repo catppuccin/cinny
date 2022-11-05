@@ -1,15 +1,15 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/cinnyapp/cinny">Cinny</a>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+  Catppuccin for <a href="https://github.com/cinnyapp/cinny">Cinny</a>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/cinny/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/cinny?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/cinny/issues"><img src="https://img.shields.io/github/issues/catppuccin/cinny?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/cinny/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/cinny?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/catppuccin/cinny/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/cinny/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/cinny?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/cinny/issues"><img src="https://img.shields.io/github/issues/catppuccin/cinny?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/cinny/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/cinny?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/catppuccin/cinny/main/catppuccin.user.css"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
 </p>
 
 
