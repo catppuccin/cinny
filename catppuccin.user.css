@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Cinny Catppuccin
 @namespace      github.com/catppuccin/cinny
-@version        2.0.4
+@version        2.0.5
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/catppuccin/cinny/raw/main/catppuccin.user.css
@@ -9,7 +9,7 @@
 @var select theme "Theme" ["Latte", "Frappe", "Macchiato", "Mocha*"]
 ==/UserStyle== */
 
-@-moz-document domain("app.cinny.in") {
+@-moz-document domain("cinny.in") {
   if (theme == "Latte") {
     $type = light
 
