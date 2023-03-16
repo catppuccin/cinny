@@ -26,7 +26,7 @@
 
 ## 💝 Thanks to
 
-- [jan Sena](https://github.com/jan-senaa)
+- [jan Sena](https://github.com/jn-sena)
 
 &nbsp;
 
