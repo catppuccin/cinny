@@ -2,7 +2,7 @@
 @name           Cinny Catppuccin
 @namespace      github.com/catppuccin/cinny
 @homepageURL    https://github.com/catppuccin/cinny
-@version        2.1.0
+@version        2.1.1
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/catppuccin/cinny/raw/main/catppuccin.user.css
@@ -127,7 +127,7 @@
     --mx-uc-1: @blue;
     --mx-uc-2: @pink;
     --mx-uc-3: @teal;
-    --mx-uc-: @red;
+    --mx-uc-4: @red;
     --mx-uc-5: @peach;
     --mx-uc-6: @sky;
     --mx-uc-7: @mauve;
