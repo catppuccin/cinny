@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo" /><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
-  Catppuccin for <a href="https://github.com/cinnyapp/cinny">Cinny</a>
+  Catppuccin for <a href="https://cinny.in/">Cinny</a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" />
 </h3>
 
@@ -37,7 +37,7 @@
 
 ## Usage
 
-Because of the limitations of Tauri with Cinny Desktop, this theme is only available for Cinny Web.
+Because of the limitations of Tauri with Cinny Desktop, this theme is only available for Cinny Web as a userstyle.
 
 #### Stylus
 1. Install Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
