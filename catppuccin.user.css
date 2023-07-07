@@ -2,7 +2,7 @@
 @name           Cinny Catppuccin
 @namespace      github.com/catppuccin/cinny
 @homepageURL    https://github.com/catppuccin/cinny
-@version        2.1.1
+@version        2.1.2
 @description    Soothing pastel theme for Cinny
 @author         Catppuccin
 @updateURL      https://github.com/catppuccin/cinny/raw/main/catppuccin.user.css
@@ -59,7 +59,7 @@
     --bg-surface-low: @mantle;
     --bg-surface-low-transparent: fadeout(@mantle, 100%);
     --bg-surface-extra-low: @crust;
-    --bg-surface-extra-low: fadeout(@crust, 100);
+    --bg-surface-extra-low-transparent: fadeout(@crust, 100);
 
     --bg-surface-hover: @surface0;
     --bg-surface-active: @surface1;
